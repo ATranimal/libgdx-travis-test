@@ -30,4 +30,9 @@ public class MyGdxGame extends ApplicationAdapter {
 		batch.dispose();
 		img.dispose();
 	}
+	
+	public static int doNothing() {
+		int i = 100;
+		return i;
+	}
 }
