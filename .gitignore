@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Java
 
 *.class
@@ -124,7 +123,7 @@ Thumbs.db
 !/ios-moe/xcode/*.xcodeproj/xcshareddata
 !/ios-moe/xcode/*.xcodeproj/project.pbxproj
 /ios-moe/xcode/native/
-=======
+
 .gradle
 /build/
 
@@ -139,4 +138,3 @@ gradle-app.setting
 
 # # Work around https://youtrack.jetbrains.com/issue/IDEA-116898
 # gradle/wrapper/gradle-wrapper.properties
->>>>>>> 8ebbcadb4bf835e39e6ed4baecffbbe852b5b43e
